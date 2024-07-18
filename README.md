@@ -1,8 +1,8 @@
 # Python-Challenge
-In the following code, I created python scripts for analyzing the finaancial records of PyBank and the election results of PyPoll. 
+In the following code, I created python scripts for analyzing large data sets. 
 
-* PyBank: Analysis on monthly Profit/Loss data
-* PyPoll: Analysis on election result
+* PyBank: Analysis on monthly Profit/Loss data (87 entires, two columns)
+* PyPoll: Analysis on election result (nearly 37,000 entires three columns)
 
 ## PyBank
 ![revenue-per-lead](https://github.com/user-attachments/assets/17051060-408b-4469-81ea-96f42df0f4a9)
